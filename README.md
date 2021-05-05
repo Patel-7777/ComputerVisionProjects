@@ -1,1 +1,1 @@
-# ObjectDetectio.io
+# GUI of Object Detection
