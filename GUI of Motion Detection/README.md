@@ -1,5 +1,5 @@
 # GUI of Motion Detection
-This is simple Graphic User Interface based Motion Detection Detection Application.
+This is simple Graphic User Interface based Motion Detection Application.
 
 ## Description
 This application takes video/open webcam/ip address of cammera from user and detects motion present in same.
